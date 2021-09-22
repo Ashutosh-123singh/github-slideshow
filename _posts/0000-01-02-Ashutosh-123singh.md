@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+title: "Welcome to our ashutosh slide!"
 ---
 Hello hgow are ypou
-Use the left arrow to go back!
+Use the left awoseme to go back!
